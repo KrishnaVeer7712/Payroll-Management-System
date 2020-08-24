@@ -73,10 +73,12 @@ It contains two parts:
 
   This feature also requests the employee code; the employee code has been utilized to open or perform operations in numerous features of this payroll management system project in C++. This function lists all the months of the year, and requests date, employee name, assignment and grade from the user. To print the salary slip, the user further needs to give data, for example, number of days worked in the month by the employee and the quantity of hours worked over time. The slip enlists essential compensation, remittance, derivations and net pay of the employee.
 
-4)	Display Employee Record:
+**4)	Display Employee Record:**
+
  Giving the worker code number, clients can get to all the gave data identified with a specific representative through this function. The representative record data showed are the ones given while including new worker record.
  
-5)	Display List of Employees:
+**5)	Display List of Employees:**
+
   This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
 
 ![](images/UseCaseDiagram.PNG)
