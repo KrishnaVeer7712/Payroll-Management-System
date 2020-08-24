@@ -5,6 +5,8 @@ Essential tasks users can perform by means of this program project that depend o
 
 Other than these, payroll management likewise permits users to print the salary slip for a specific representative. This project is enormous, finished and we attempted our best to make it blunder free. The source code is long – more than 1500 lines and created in Code Blocks compiler.
 
+![](images/HomePage.png)
+
 It uses the concept of following c/c++ topics:
 
 1) Pointers like Void Pointers, null Pointers, Pointer Array
@@ -51,6 +53,8 @@ Our Payroll management system application has 3 main classes and with many funct
 
 1)	Addition of New Employee:  
  This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
+ 
+ ![](images/AddingEmp.png)
 
 2)	Edit Employee Record: 
 
