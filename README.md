@@ -15,6 +15,7 @@ It uses the concept of following c/c++ topics:
 •	Function Overriding and Function Overloading
 
 Our Payroll management system application has 3 main classes and with many functions inside it :
+
 1)	LINES
 •	LINE_HOR
 •	LINE_VER
