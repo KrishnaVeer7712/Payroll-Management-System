@@ -1,4 +1,5 @@
-**Payroll management system project** in C++ is a console application with the utilization of Object Oriented Programming with illustrations. The project has different classes and sub-classes with numerous highlights inside them.
+# Payroll management system project in C++
+It is a console application with the utilization of Object Oriented Programming with illustrations. The project has different classes and sub-classes with numerous highlights inside them.
 
 Essential tasks users can perform by means of this program project that depend on document taking care of are including new worker record, altering representative record and erasing record, showing one or all representative's record. 
 
