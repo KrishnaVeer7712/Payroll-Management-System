@@ -57,7 +57,7 @@ Other than these, payroll management likewise permits users to print the salary 
  
  ![](images/AddingEmp.png)
 
-**2)	Edit Employee Record: 
+**2)	Edit Employee Record:** 
 
 It contains two parts:
 
