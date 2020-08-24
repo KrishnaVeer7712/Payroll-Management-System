@@ -7,7 +7,7 @@ Other than these, payroll management likewise permits users to print the salary 
 
 ![](images/HomePage.png)
 
-It uses the concept of following c/c++ topics:
+**It uses the concept of following c/c++ topics:**
 
 1) Pointers like Void Pointers, null Pointers, Pointer Array
 2)	For and While Loops
@@ -18,7 +18,7 @@ It uses the concept of following c/c++ topics:
 7)	File Handling
 8)	Function Overriding and Function Overloading
 
-Our Payroll management system application has 3 main classes and with many functions inside it :
+**Our Payroll management system application has 3 main classes and with many functions inside it :**
 
 1)	LINES
 •	LINE_HOR
@@ -49,24 +49,28 @@ Our Payroll management system application has 3 main classes and with many funct
 •	DISPLAYING_RECORD
 •	VALID_DATES
 
-**How Project Works:**
+## How Project Works:
 
-1)	Addition of New Employee:  
+**1)	Addition of New Employee:**
+
  This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
  
  ![](images/AddingEmp.png)
 
-2)	Edit Employee Record: 
+**2)	Edit Employee Record: 
 
 It contains two parts:
 
- a)	Modify Records
+ **a)	Modify Records**
+ 
    Our Payroll management system application asks for employee code from the user for this function to work. Alterations that can be made are simply the employee code number,     joining date (day, month and year), name, address, telephone number, assignment, grade, house recompense and loan given to the employee. Employee's grade are ordered as A, B,   C, D and E.
 
- b)	Delete Employee Record: 
+ **b)	Delete Employee Record:**
+ 
    Deletion is done of an employee record from Payroll management system project by entering the employee code. An affirmation message is asked expressing whether the user truly   needs to erase the record from the document.
 
-3)	Salary Slip:
+**3)	Salary Slip:**
+
   This feature also requests the employee code; the employee code has been utilized to open or perform operations in numerous features of this payroll management system project in C++. This function lists all the months of the year, and requests date, employee name, assignment and grade from the user. To print the salary slip, the user further needs to give data, for example, number of days worked in the month by the employee and the quantity of hours worked over time. The slip enlists essential compensation, remittance, derivations and net pay of the employee.
 
 4)	Display Employee Record:
