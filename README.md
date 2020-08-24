@@ -1,6 +1,9 @@
-*Payroll management system project* in C++ is a console application with the utilization of Object Oriented Programming with illustrations. The project has different classes and sub-classes with numerous highlights inside them. 
+*Payroll management system project* in C++ is a console application with the utilization of Object Oriented Programming with illustrations. The project has different classes and sub-classes with numerous highlights inside them.
+
 Essential tasks users can perform by means of this program project that depend on document taking care of are including new worker record, altering representative record and erasing record, showing one or all representative's record. 
+
 Other than these, payroll management likewise permits users to print the salary slip for a specific representative. This project is enormous, finished and we attempted our best to make it blunder free. The source code is long – more than 1500 lines and created in Code Blocks compiler.
+
 It uses the concept of following c/c++ topics:
 •	Pointers like Void Pointers, null Pointers, Pointer Array
 •	For and While Loops
@@ -10,6 +13,7 @@ It uses the concept of following c/c++ topics:
 •	Classes
 •	File Handling
 •	Function Overriding and Function Overloading
+
 Our Payroll management system application has 3 main classes and with many functions inside it :
 1)	LINES
 •	LINE_HOR
@@ -43,7 +47,7 @@ How Project Works
  This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
 
 2)	Edit Employee Record: 
-       It contains two parts:
+It contains two parts:
 a)	Modify Records
   Our Payroll management system application asks for employee code from the user for this function to work. Alterations that can be made are simply the employee code number, joining date (day, month and year), name, address, telephone number, assignment, grade, house recompense and loan given to the employee. Employee's grade are ordered as A, B, C, D and E.
 
@@ -55,6 +59,7 @@ b)	Delete Employee Record:
 
 4)	Display Employee Record:
  Giving the worker code number, clients can get to all the gave data identified with a specific representative through this function. The representative record data showed are the ones given while including new worker record.
+ 
 5)	Display List of Employees:
   This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
 
